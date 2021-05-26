@@ -1,6 +1,6 @@
 # Django Tutorial
 --------------------------------------------------------------------------------
-
+## Front End - Static Site - Bootstrap and jQuery
 ## HTML Level 1
 ## HTML Level 2
   Tables
@@ -11,25 +11,20 @@
   Forms and Selections
   Assessment
   Assessment Solution
+
 ## CSS Level 1
 ## CSS Level 2
 ## Javascript Level 1
 ## Javascript Level 2
-## Capstone Project
-
-
---------------------------------------------------------------------------------
 ## Bootstrap Overview
 ## Document Object Model
 ## jQuery
 
 
 --------------------------------------------------------------------------------
+## Back End - Django framework
 ## Python Level 1
 ## Python Level 2
-
-
---------------------------------------------------------------------------------
 ## Django Level 1
 ## Django Level 2
 ## Django Level 3
@@ -44,11 +39,15 @@
 
 
 --------------------------------------------------------------------------------
+## Capstone Project
 ## First Clone Project
 ## Second Clone Project
 
 
-
+--------------------------------------------------------------------------------
+## Personal Project - Knife work
+## Personal Project - Hammerhead
+## Personal Project - Plowshare
 
 
 

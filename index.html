@@ -5,6 +5,32 @@
     <title>Basic Page</title>
   </head>
   <body>
+    <div class="Forms">
+      <h1>Hotel Feedback Form</h1>
+      <form method="get">
+
+        <h3>Are you from inside the US? or Out the US?</h3>
+        <label for="in_usa">Inside: </label>
+        <input id="in_usa" type="radio" name="loc" value="inside">
+        <label for="out_usa">Outside: </label>
+        <input id="out_usa" type="radio" name="loc" value="outside">
+
+        <h2>How was your service?</h2>
+        <select name="stars">
+          <option value="Great">3</option>
+          <option value="Ok">2</option>
+          <option value="Bad">1</option>
+        </select>
+
+        <h2>Any other feedback?</h2>
+        <textarea name="mytext" rows="8" cols="80"></textarea>
+
+        <p></p>
+        <button type="submit">Submit</button>
+
+
+      </form>
+    </div>
 
 
     <div class="Forms">
