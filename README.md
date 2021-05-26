@@ -23,31 +23,44 @@
 
 --------------------------------------------------------------------------------
 ## Back End - Django framework
-## Python Level 1
-## Python Level 2
-## Django Level 1
-## Django Level 2
-## Django Level 3
-## Django Level 4
-## Django Level 5
+### Python Level 1
+### Python Level 2
+
+### Django Level 1
+### Django Level 2
+### Django Level 3
+### Django Level 4
+### Django Level 5
 
 
 --------------------------------------------------------------------------------
-## Advanced Topics - CBVs
-## Advanced Topics - Debug Toolbar
-## Advanced Topics - Customizing Django Admin
+### Advanced Topics - CBVs
+### Advanced Topics - Debug Toolbar
+### Advanced Topics - Customizing Django Admin
 
 
 --------------------------------------------------------------------------------
-## Capstone Project
-## First Clone Project
-## Second Clone Project
+### Capstone Project
+### First Clone Project
+### Second Clone Project
 
 
 --------------------------------------------------------------------------------
-## Personal Project - Knife work
-## Personal Project - Hammerhead
-## Personal Project - Plowshare
+### Cheatsheet - JS
+alert("")
+// this is a comment
+undefined
+null
+clear()
+"Hello World".length
+"hello \" jello" - "
+"hello \n jello" - new line
+"hello \t jello" - tab
+"hello"[4] - index string
+var bankAccount - JS uses Camelcase
+console.log
+prompt("")
+var age = prompt("Enter your age: ")
 
 
 
@@ -67,8 +80,7 @@
 
 
 
-
-## Cheatsheet - venv
+### Cheatsheet - venv
 virtualenv --python python3.6 venv
 source venv/bin/activate
 pip list
@@ -76,7 +88,7 @@ pip freeze > requirements.txt
 pip install -r requirements.txt
 deactivate
 
-## Cheatsheet - python
+### Cheatsheet - python
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt-get update
 sudo apt list | grep python3.9.2
