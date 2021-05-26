@@ -1,3 +1,20 @@
+/*
+ * Custom CSS here 
+ */
+
+div{
+  color: #215FA6
+}
+
+p{
+  color: rgba(33, 166, 166,0.5)
+}
+
+
+
+
+
+
 body {
   font-size: .875rem;
 }
